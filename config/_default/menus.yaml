@@ -1,0 +1,249 @@
+leftnav:
+- identifier: 3e95fb4b-e99f-64dd-50b2-c02b053d38ea
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3e5908a6-91ac-b5f9-439c-c37900c37063
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: b6ad918e-913d-2617-f4fa-97e028cd36ad
+  name: Coming Full Circle Back to Science
+  pageRef: /pages/instructor-insights/instructor-background-coming-full-circle-back-to-science
+  parent: 3e5908a6-91ac-b5f9-439c-c37900c37063
+  weight: 30
+- identifier: 97e48da7-126b-04f0-2faa-6006c668de19
+  name: 'Nothing Better than a Picture '
+  pageRef: /pages/instructor-insights/nothing-better-than-a-picture
+  parent: 3e5908a6-91ac-b5f9-439c-c37900c37063
+  weight: 40
+- identifier: 5ee9f6d2-da58-4ce8-e720-1f6e29bd5f9f
+  name: Providing Meaningful Feedback in a MOOC
+  pageRef: /pages/instructor-insights/providing-meaningful-feedback-in-a-mooc-environment
+  parent: 3e5908a6-91ac-b5f9-439c-c37900c37063
+  weight: 50
+- identifier: 80f03020-3474-5911-66b0-b9c00eddd75a
+  name: Collaborating as a Teaching Team
+  pageRef: /pages/instructor-insights/collaborating-as-a-teaching-team
+  parent: 3e5908a6-91ac-b5f9-439c-c37900c37063
+  weight: 60
+- identifier: 1330571d-3e61-b779-249c-ab7571b07404
+  name: 'Week 0: About this Course'
+  pageRef: /video_galleries/week-0-about-this-course
+  weight: 70
+- identifier: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+  name: 'Week 1: Flatbed Scanner'
+  pageRef: /pages/week-1-flatbed-scanner/
+  weight: 80
+- identifier: 289d2e5d-e99b-50d4-5029-656798a89e6f
+  name: 'Video 1: Using a Flatbed Scanner'
+  pageRef: /pages/week-1-flatbed-scanner/video-1-using-a-flatbed-scanner
+  parent: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+  weight: 90
+- identifier: 7d1eaf15-d66a-897c-34b1-7ac9d4aa247c
+  name: 'Video 2: Placing Objects on the Scanner'
+  pageRef: /pages/week-1-flatbed-scanner/video-2-placing-objects-on-the-scanner
+  parent: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+  weight: 100
+- identifier: 073e6402-4d19-6d8b-b5f9-89f6f17f2604
+  name: 'Video 3: Transmitted and Reflected Light'
+  pageRef: /pages/week-1-flatbed-scanner/video-3-transmitted-and-reflected-light
+  parent: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+  weight: 110
+- identifier: 149d967e-7fee-b0ca-652c-35b49375aa8b
+  name: 'Video 4: Enhancing the Scanned Image'
+  pageRef: /pages/week-1-flatbed-scanner/video-4-enhancing-the-scanned-image
+  parent: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+  weight: 120
+- identifier: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  name: 'Week 2: Camera Basics'
+  pageRef: /pages/week-2-camera-basics/
+  weight: 130
+- identifier: 1c729d98-9720-cc9d-4838-4bce649362f0
+  name: 'Video 5: Camera and Lens'
+  pageRef: /pages/week-2-camera-basics/video-5-camera-and-lens
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 140
+- identifier: 629d0481-2875-4237-663b-6629b61b80d9
+  name: 'Video 6: Setting the Exposure'
+  pageRef: /pages/week-2-camera-basics/video-6-setting-the-exposure
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 150
+- identifier: b9caf8ec-5969-e241-1615-9631f9564060
+  name: 'Video 7: Aperture'
+  pageRef: /pages/week-2-camera-basics/video-7-aperture
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 160
+- identifier: 41545076-f1d6-9fc4-3f77-633d48bc5979
+  name: 'Interactive A: Aperture Settings'
+  pageRef: /pages/week-2-camera-basics/interactive-a
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 170
+- identifier: 75204ff6-289d-5f0a-1f1f-1fe825d61bcf
+  name: 'Interactive B: Compare f-stops'
+  pageRef: /pages/week-2-camera-basics/interactive-b
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 180
+- identifier: 8fbd9eac-27aa-bdc8-b38d-470855e467fc
+  name: 'Video 8: Composition'
+  pageRef: /pages/week-2-camera-basics/video-8-composition
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 190
+- identifier: 239d17e2-f5b8-719c-b02e-3f7ab74a988f
+  name: 'Video 9: Backgrounds'
+  pageRef: /pages/week-2-camera-basics/video-9-backgrounds
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 200
+- identifier: ad4f4433-a4bc-33e6-a432-458af507a429
+  name: 'Video 10: Point of View'
+  pageRef: /pages/week-2-camera-basics/video-10-point-of-view
+  parent: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+  weight: 210
+- identifier: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  name: 'Week 3: Light'
+  pageRef: /pages/week-3-light/
+  weight: 220
+- identifier: 6bb5f692-58e5-f687-5bb8-491a08f92fc6
+  name: 'Video 11: An Introduction'
+  pageRef: /pages/week-3-light/video-11-an-introduction
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 230
+- identifier: 2bc91c24-9fcf-7098-57ec-23b529c1304c
+  name: 'Interactive C: Fill Light'
+  pageRef: /pages/week-3-light/interactive-c-fill-light
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 240
+- identifier: 1f6b7ad4-d92a-7ad6-878a-0b1b2e7f7b0f
+  name: 'Video 12: Fluorescence'
+  pageRef: /pages/week-3-light/video-12-fluorescence
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 250
+- identifier: 281e62cc-5dfa-40a6-a2d5-4264c33d5cf6
+  name: 'Video 13: Use your imagination'
+  pageRef: /pages/week-3-light/video-13-use-your-imagination
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 260
+- identifier: 7c4305e4-9605-f6ec-efee-b7911e5f17b6
+  name: 'Interactive D1: Lighting Gallery'
+  pageRef: /pages/week-3-light/interactive-d1
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 270
+- identifier: 84c75831-86d4-c0ac-5a05-431b1e30cd6a
+  name: 'Interactive D2: Lighting Comparison'
+  pageRef: /pages/week-3-light/interactive-d2
+  parent: eeeb9c39-c411-6437-28bd-a6c9db653dca
+  weight: 280
+- identifier: c4d8fa32-9368-d373-97b5-8b47a37949ee
+  name: 'Week 4: Mobile Devices and Video'
+  pageRef: /pages/week-4-mobile-devices-and-video/
+  weight: 290
+- identifier: 7dc6de86-8202-4e64-b902-747fed1cc961
+  name: 'Video 14: Using a Smartphone'
+  pageRef: /pages/week-4-mobile-devices-and-video/video-14-using-a-smartphone
+  parent: c4d8fa32-9368-d373-97b5-8b47a37949ee
+  weight: 300
+- identifier: 98cdaa24-cd8a-6576-76f3-49520927d6f4
+  name: 'Video 15: Imaging with a Tablet Camera'
+  pageRef: /pages/week-4-mobile-devices-and-video/video-15-imaging-with-a-tablet-camera
+  parent: c4d8fa32-9368-d373-97b5-8b47a37949ee
+  weight: 310
+- identifier: db315b16-a672-74e1-a5b2-971933ab0b9d
+  name: 'Video 16: "Beautiful Chemistry"'
+  pageRef: /pages/week-4-mobile-devices-and-video/video-16-beautiful-chemistry
+  parent: c4d8fa32-9368-d373-97b5-8b47a37949ee
+  weight: 320
+- identifier: cb269109-9834-bb9a-36c7-1b2669f17b71
+  name: 'Video 17: Looking at Videos'
+  pageRef: /pages/week-4-mobile-devices-and-video/video-17-looking-at-videos
+  parent: c4d8fa32-9368-d373-97b5-8b47a37949ee
+  weight: 330
+- identifier: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  name: 'Week 5: Presenting Your Work'
+  pageRef: /pages/week-5-presenting-your-work/
+  weight: 340
+- identifier: 094bbe36-de63-39b5-a9c8-677eee753329
+  name: 'Video 18: Designing Graphics'
+  pageRef: /pages/week-5-presenting-your-work/video-18-designing-graphics
+  parent: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  weight: 350
+- identifier: e302b821-98a3-5379-e3ba-b4b8fb128d25
+  name: 'Video 19: Time and Scale'
+  pageRef: /pages/week-5-presenting-your-work/video-19-time-and-scale
+  parent: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  weight: 360
+- identifier: eb358796-000d-6df1-3613-ee6e4326d54c
+  name: 'Video 20: Cover Submissions'
+  pageRef: /pages/week-5-presenting-your-work/video-20-cover-submissions
+  parent: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  weight: 370
+- identifier: 609ce82f-144b-f02f-2701-09db6f0bbf64
+  name: 'Video 21: Image "Enhancement"'
+  pageRef: /pages/week-5-presenting-your-work/video-21-image-enhancement
+  parent: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  weight: 380
+- identifier: ed233323-5f5c-feb0-6b99-5180b14b9960
+  name: 'Video 22: Speaking to the Public'
+  pageRef: /pages/week-5-presenting-your-work/video-22-speaking-to-the-public
+  parent: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+  weight: 390
+- identifier: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  name: 'Week 6: Case Studies'
+  pageRef: /pages/week-6-case-studies/
+  weight: 400
+- identifier: 879c128f-649f-2f1f-4d77-9a0cb8a45095
+  name: 'Video 23: Liquid Battery'
+  pageRef: /pages/week-6-case-studies/video-23-liquid-battery
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 410
+- identifier: 48465455-1235-6c38-bbc4-ccdf92a234df
+  name: 'Video 24: Fuel Cells for Mobile Batteries'
+  pageRef: /pages/week-6-case-studies/video-24-fuel-cells-for-mobile-batteries
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 420
+- identifier: 57159fea-6000-bd8b-c126-c71dd7b55f73
+  name: 'Video 25: A Solar Thermophotovoltaic (STPV) System'
+  pageRef: /pages/week-6-case-studies/video-25-a-solar-thermophotovoltaic-stpv-system
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 430
+- identifier: 431df34c-9b4a-916f-069d-0833f6b289e9
+  name: 'Video 26: Microneedles'
+  pageRef: /pages/week-6-case-studies/video-26-microneedles
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 440
+- identifier: 55320d21-7026-45ac-816c-9395a3426d9c
+  name: 'Video 27: Soft Lithography'
+  pageRef: /pages/week-6-case-studies/video-27-soft-lithography
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 450
+- identifier: 6925a4d1-38a8-c58f-2f45-02956692bb74
+  name: 'Video 28: Chemical Vapor Deposition'
+  pageRef: /pages/week-6-case-studies/video-28-chemical-vapor-deposition
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 460
+- identifier: 84cd47cc-146d-f93f-0ee1-cca68067d123
+  name: 'Video 29: Analytical Microreactor'
+  pageRef: /pages/week-6-case-studies/video-29-analytical-microreactor
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 470
+- identifier: fe005423-3e03-72e1-b32e-a689ef50c74e
+  name: Video 30 Stretchable Sensors
+  pageRef: /pages/week-6-case-studies/video-30-stretchable-sensors
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 480
+- identifier: c545a135-26d1-5fbd-5ae7-f30a27def6fe
+  name: 'Video 31: Solar Cell'
+  pageRef: /pages/week-6-case-studies/video-31-solar-cell
+  parent: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+  weight: 490
+- identifier: 6515112d-d22f-ec63-c5aa-0e0304041c8d
+  name: How-To-Do-It Tutorials
+  pageRef: /video_galleries/how-to-do-it-tutorials
+  weight: 500
+- identifier: e4e75018-67ee-17ef-4b31-55a10ea56b67
+  name: Guest Interviews
+  pageRef: /video_galleries/guest_interviews
+  weight: 510
+- identifier: 76026f86-1978-0149-19bb-108b31efc99c
+  name: Additional Materials
+  pageRef: /pages/additional-materials
+  weight: 520
